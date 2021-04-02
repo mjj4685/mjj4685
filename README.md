@@ -2,10 +2,7 @@
 # Welcome, friends! 
 
 
-<img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" width="500px">
-
-
-
+<img src="https://media.giphy.com/media/lMUGMp2lImgGA/giphy.gif" width="920px" height="310px">
 
 
 
